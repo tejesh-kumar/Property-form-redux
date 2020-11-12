@@ -1,0 +1,21 @@
+.Dropzone {
+	/* margin-top: 2rem; */
+	height: 12rem;
+	display: block;
+	width: inherit;
+	font-weight: 500;
+	background-color: lightyellow;
+	border: 3px dashed yellowgreen;
+	border-radius: 4px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.UploadedImage {
+	min-height: 3rem;
+}
+
+.UploadedImage img {
+	height: inherit !important;
+}

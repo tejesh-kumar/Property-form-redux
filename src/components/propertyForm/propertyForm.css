@@ -1,0 +1,11 @@
+.FormContainer {
+	width: 450px;
+}
+
+.FormHeading {
+	width: 100%;
+}
+
+.FormHeading h3 {
+	font-size: 1.5rem;
+}
